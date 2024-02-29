@@ -1,0 +1,20 @@
+h1, p{
+    color: purple;
+    font-size: 50px;
+}
+#TextJose {
+    color: rgb(0, 58, 29);
+    font-size: 80px;
+    text-align: center;
+}
+.PoemaJose{
+    color: rgb(14, 0, 48);
+    font-size: 50px;
+    text-align: center;
+}
+body{
+    background-color: aquamarine;
+}
+.btn btn-primary{
+    text-align: center;
+}
